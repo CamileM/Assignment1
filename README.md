@@ -1,6 +1,11 @@
 # Assignment 1 - TIME & TASK MANAGEMENT
 
-##  Bash
+## Time: " "
+
+## Task Management: “The process of managing a tasking during its lifecycle, including planning, tracking and reporting."
+
+
+### Bash
 
 - Where Am I?       : pwd
 - Where Can I Go?   : ls, ls -a, ls -all
@@ -13,7 +18,7 @@
 - Remove Dir        : rm -rf ... / rm -rf <Dir>
 - Open file         : Cat ... / Cat <File>
 
-##  Git
+### Git
 
 Git = Version Control
 
@@ -25,9 +30,10 @@ Git = Version Control
 2. git commit -m " "
 3. git push origin master
 
-##  Github
+### Github
 
 
-### Eisenhower Model
+## Eisenhower Model
 
-### The Pareto Principle
+## The Pareto Principle
+The Pareto principle states that, for many events, roughly 80% of the effects come from 20% of the causes. For instance, for every 80% of a program that contains an error, 20% would be a functioning code. The 20 ---> 80 Rule.
