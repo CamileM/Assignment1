@@ -1,7 +1,7 @@
 # ASSIGNMENT 1 - Time & Task Management
 
-## Time
-" "
+## Time Management
+"The ability to use one's time effectively or productively, especially at work."
 
 ### Credibility
 
@@ -64,5 +64,4 @@ The Eisenhower Matrix, also referred to as Urgent-Important Matrix, helps you de
 
 ## The Pareto Principle
 The Pareto principle states that, for many events, roughly 80% of the effects come from 20% of the causes. For instance, for every 80% of a program that contains an error, 20% would be a functioning code.
-
 - The 20 ---> 80 Rule
