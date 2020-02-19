@@ -3,8 +3,6 @@
 ## Time Management
 "The ability to use one's time effectively or productively, especially at work."
 
-### Credibility
-
 ### Good Meeting
 
 - Selecting Invitees
