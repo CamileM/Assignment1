@@ -1,4 +1,4 @@
-# Assignment 1 - TIME & TASK MANAGEMENT
+# ASSIGNMENT 1 - Time & Task Management
 
 ## Time:
 " "
@@ -6,7 +6,8 @@
 ## Task Management:
 “The process of managing a tasking during its lifecycle, including planning, tracking and reporting."
 
-### Bash
+
+### Bash (Linux & MacOS)
 
 - Where Am I?       : pwd
 - Where Can I Go?   : ls, ls -a, ls -all
@@ -20,7 +21,7 @@
 - Open file         : Cat ... / Cat <File>
 
 ### Git
-Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers. 
+Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers.
 
 - git init
 - git status
