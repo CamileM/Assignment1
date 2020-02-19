@@ -1,4 +1,4 @@
-# ASSIGNMENT 1 - Time & Task Management
+# Assignment 1 - Time & Task Management
 
 ## Time Management
 "The ability to use one's time effectively or productively, especially at work."
