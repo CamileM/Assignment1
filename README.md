@@ -1,11 +1,29 @@
 # ASSIGNMENT 1 - Time & Task Management
 
-## Time:
+## Time
 " "
 
-## Task Management:
+### Good Meeting
+
+- Selecting Invitees
+- Goals/Objectives
+- Agenda
+- Keeping Control
+- Making Decisions
+- Minutes/ROD
+
+KEY: DON"T waste other people’s time. Only attend meetings if you’re suppose to be there and if it is necessary for you.
+
+## Task Management
 “The process of managing a tasking during its lifecycle, including planning, tracking and reporting."
 
+- Email
+- WhatsApp/Text/Voicemail
+- Phone Conversation
+- Informal conversation
+- Meeting
+- Slack
+- Your brain
 
 ### Bash (Linux & MacOS)
 
