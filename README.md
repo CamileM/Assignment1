@@ -28,6 +28,7 @@ KEY: DON"T waste other people’s time. Only attend meetings if you’re suppose
 - Your brain
 
 ### Bash (Linux & MacOS):
+Bash is used to control a UNIX-based OS through a Command Line Interface. As with Git, there are a number of commands that allow for a range of functionality. 
 
 - Where Am I?       : pwd
 - Where Can I Go?   : ls, ls -a, ls -all
