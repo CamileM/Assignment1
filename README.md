@@ -14,7 +14,7 @@
 - Making Decisions
 - Minutes/ROD
 
-KEY: DON"T waste other people’s time. Only attend meetings if you’re suppose to be there and if it is necessary for you.
+KEY: DON'T waste other people’s time. Only attend meetings if you’re suppose to be there and if it is necessary for you.
 
 ## Task Management
 “The process of managing a tasking during its lifecycle, including planning, tracking and reporting."
