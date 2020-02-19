@@ -1,9 +1,10 @@
 # Assignment 1 - TIME & TASK MANAGEMENT
 
-## Time: " "
+## Time:
+" "
 
-## Task Management: “The process of managing a tasking during its lifecycle, including planning, tracking and reporting."
-
+## Task Management:
+“The process of managing a tasking during its lifecycle, including planning, tracking and reporting."
 
 ### Bash
 
@@ -19,8 +20,8 @@
 - Open file         : Cat ... / Cat <File>
 
 ### Git
+Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows
 
-Git = Version Control
 
 - git init
 - git status
@@ -31,9 +32,12 @@ Git = Version Control
 3. git push origin master
 
 ### Github
-
+GitHub is a US-based global company that provides hosting for software development version control using Git.
 
 ## Eisenhower Model
+The Eisenhower Matrix, also referred to as Urgent-Important Matrix, helps you decide on and prioritise tasks by urgency and importance, sorting out less urgent and important tasks which you should either delegate or not do at all.
 
 ## The Pareto Principle
-The Pareto principle states that, for many events, roughly 80% of the effects come from 20% of the causes. For instance, for every 80% of a program that contains an error, 20% would be a functioning code. The 20 ---> 80 Rule.
+The Pareto principle states that, for many events, roughly 80% of the effects come from 20% of the causes. For instance, for every 80% of a program that contains an error, 20% would be a functioning code.
+
+- The 20 ---> 80 Rule
