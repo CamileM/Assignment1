@@ -25,7 +25,7 @@ KEY: DON"T waste other people’s time. Only attend meetings if you’re suppose
 - Slack
 - Your brain
 
-### Bash (Linux & MacOS)
+### Bash (Linux & MacOS):
 
 - Where Am I?       : pwd
 - Where Can I Go?   : ls, ls -a, ls -all
