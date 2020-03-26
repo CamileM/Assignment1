@@ -1,4 +1,4 @@
-# Assignment 1 - Time & Task Management
+#Time & Task Management
 
 ## Time Management
 "The ability to use one's time effectively or productively, especially at work."
@@ -17,6 +17,7 @@ KEY: DON'T waste other people’s time. Only attend meetings if you’re suppose
 ## Task Management
 “The process of managing a tasking during its lifecycle, including planning, tracking and reporting."
 
+1) Capture Task
 - Email
 - WhatsApp/Text/Voicemail
 - Phone Conversation
